@@ -1,0 +1,29 @@
+.container{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar{
+    font-family: 'Raleway', sans-serif ;
+}
+/* #jumbotron{
+    background:url("images/pubgscar.jpg");
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 270px;
+} */
+.headingtwo{
+    color: rgb(179, 179, 9);
+    font-weight: 500;
+}
+.fa-gamepad:before {
+    content: "\f11b";
+    color: yellow;
+}
+/* #partner{
+    background: url("images/theme.jpg");
+    background-repeat: no-repeat;
+    background-position:top;
+    
+} */
+#notice{
+    font-family: 'Baloo Tamma 2', cursive;
+}
